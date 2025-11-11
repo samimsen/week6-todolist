@@ -13,3 +13,5 @@ Ayrıca, uygulama kullanıcıya **başarı ve hata durumlarını göstermek içi
 - Görevi silme
 - Ekleme sırasında başarılı veya boş giriş durumunda toast mesajı gösterme
 - Görevleri localStorage üzerinde saklama
+
+##[Canlı proje](https://samimsen.github.io/week6-todolist/)
